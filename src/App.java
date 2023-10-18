@@ -7,7 +7,7 @@ public class App {
 
 
         // Cambiar la hora a 12:30:45
-        horaActual.setHora(22);
+        horaActual.setHora(21);
         horaActual.setMinutos(59);
         horaActual.setSegundos(58);
         System.out.println("Hora cambiada: " + horaActual.toString());
